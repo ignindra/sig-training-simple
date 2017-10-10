@@ -1,4 +1,4 @@
-
+package eu.sig.training.ch05.buildandsendmail;
 
 import eu.sig.training.ch05.buildandsendmail.EmailContent;
 import eu.sig.training.ch05.buildandsendmail.Mail;
